@@ -6,7 +6,7 @@ namespace PrideAndPrejudice
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Calculator");
+            System.Console.WriteLine("Calculator! Select operation to continue.");
             System.Console.WriteLine();
             System.Console.WriteLine("+");
             System.Console.WriteLine("-");
